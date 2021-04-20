@@ -5,8 +5,8 @@
     Using:
     * Kotlin
 
-![zuri_initial_screen.png](zuri_initial_screen.png)
-![zuri_increment.png](zuri_increment.png)
+<img src="zuri_initial_screen.png" width="350" title="Initial Screen">
+<img src="zuri_increment.png" width="350" title="Screen after incrementing count">
 
  ## Link To APK
  * [Guide to app architecture](https://developer.android.com/jetpack/guide)
