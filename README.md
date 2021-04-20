@@ -10,4 +10,4 @@
 <img src="zuri_initial_screen.png" width="350" title="Initial Screen"> <img src="zuri_inrement.png" width="350" title="Screen after incrementing count">
 
  ## Link To APK
- * [Guide to app architecture](https://developer.android.com/jetpack/guide)
+ * [Download APK](https://github.com/chydee/Hello-Zuri/releases/tag/v1.0)
